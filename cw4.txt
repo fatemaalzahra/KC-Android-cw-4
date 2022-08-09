@@ -1,0 +1,32 @@
+
+	public static void main(String[] args) {
+	    
+	    System.out.println(temperature(2,2));
+	
+temperature(4,8);
+}
+
+}	    
+	    
+	   public static int totalGrade(int num1, int num2){
+            
+            int x= num1+num2;
+ return x;
+} 
+	    public static void temperature  (int num1){
+	        int o = 23
+	        if (o>=23){
+	            System.out.println("hot")
+	            
+	        }else if (o<23){
+	            
+	            
+	            System.out.println("cold")
+	        }
+	        
+	        for (int x=1;x<10;x++)
+	  
+
+	}
+public static void main (String[]args)	for (int x=1;x<10;x++)
+}
